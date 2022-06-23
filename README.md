@@ -4,4 +4,5 @@ Speco requires prodigal-short,hmmsearch, bigscape and fasttree. If <20000 bp seq
 
 Below is workflow of speco.
 
-![workflow](https://user-images.githubusercontent.com/82441159/175209683-eb0928a3-14f9-4487-a1b4-061d23d6ec27.png)
+![image](https://user-images.githubusercontent.com/82441159/175210002-078ddb69-27ca-45e6-875f-4bf6a3117652.png)
+
