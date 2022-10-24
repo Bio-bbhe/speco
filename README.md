@@ -13,6 +13,8 @@ to your own path:
     pfam_acc_file = 'your path/pfam_34.0_acc.txt'  # 
     hmm_file_path = 'your path/Pfam-A.hmm'  # 
 ```
+Pfam database (pfam34.0/Pfam-A.hmm) can be downloaded from https://www.ebi.ac.uk/interpro/download/Pfam/
+pfam_acc_file can be downloaded from https://github.com/Bio-bbhe/speco/tree/main/pfam_file
 
 Below is workflow of speco. A web version is available via http://biospeco.org/
 
