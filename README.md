@@ -16,6 +16,6 @@ to your own path:
 Pfam database (pfam34.0/Pfam-A.hmm) can be downloaded from https://www.ebi.ac.uk/interpro/download/Pfam/
 pfam_acc_file can be downloaded from https://github.com/Bio-bbhe/speco/tree/main/pfam_file
 
-Below is workflow of speco. A web version is available via http://biospeco.org/
+Below is workflow of speco. A web version is available via http://biospeco.org/, which can only handel very small sequence data since it's hosted on my private cloud server.
 
 <img src="https://user-images.githubusercontent.com/82441159/175210002-078ddb69-27ca-45e6-875f-4bf6a3117652.png" width="500" height="500">
